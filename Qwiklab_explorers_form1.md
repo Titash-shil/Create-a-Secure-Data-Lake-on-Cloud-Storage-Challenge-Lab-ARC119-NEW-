@@ -18,11 +18,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Optimizing-Cost-with-Google-Cloud-Storage-GSP649/refs/heads/main/qwiklab_explorers_gsp649.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Create-a-Secure-Data-Lake-on-Cloud-Storage-Challenge-Lab-ARC119-NEW-/refs/heads/main/QE-Form-1.sh
 
-sudo chmod +x qwiklab_explorers_gsp649.sh
+sudo chmod +x QE-Form-1.sh
 
-./qwiklab_explorers_gsp649.sh
+./QE-Form-1.sh
 ```
 
 
