@@ -2,8 +2,9 @@
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://www.youtube.com/@qwiklabexplorers) 👍😄🤝
 
-
-* **Note Before Starting The Execution Check and Match Your `Task 1 & Task 4` From Below and & Check Solution Repo below of it for every Form Id..**
+---
+## ⚠️ **Disclaimer:**
+#### This script and guide are provided for educational purposes to help you understand the lab process. Please ensure you understand the steps before using any scripts. Before using the script, I encourage you to open and review it to understand each step.The goal is to help you learn how to complete the labs effectively while following Qwiklabs' terms of service and YouTube's community guidelines.
 ---
 
 ## 1️⃣ For form 1: Follow below tasks as per your lab instruction & Check Solution Repo  :
