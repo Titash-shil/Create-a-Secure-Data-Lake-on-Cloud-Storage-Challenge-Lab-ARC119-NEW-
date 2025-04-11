@@ -1,4 +1,4 @@
-# Create a Secure Data Lake on Cloud Storage: Challenge Lab || [ARC119] (https://www.cloudskillsboost.google/focuses/63857?parent=catalog)||
+# Create a Secure Data Lake on Cloud Storage: Challenge Lab || [ARC119](https://www.cloudskillsboost.google/focuses/63857?parent=catalog) ||
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://www.youtube.com/@qwiklabexplorers) 👍😄🤝
 
