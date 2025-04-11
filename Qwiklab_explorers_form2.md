@@ -10,9 +10,9 @@
 ## 2️⃣ For form 2: Follow below tasks as per your lab instruction & Check Solution Repo  :
 ---
 
-* **Task 1. Create a lake in Dataplex and add a zone to your .**
-* **Task 2. Environment Creation for Dataplex .**
-* **Task 3. Attach an existing Cloud Storage bucket to the zone.**
+* **Task 1. Create a lake in Dataplex and add a zone to your lake.**
+* **Task 2. Create an entry group**
+* **Task 3. Attach an existing Cloud Storage bucket to the zone**
 * **Task 4. Create a tag template (Storage bucket).**
 ---
 
