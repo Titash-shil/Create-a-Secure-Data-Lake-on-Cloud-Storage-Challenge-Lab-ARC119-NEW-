@@ -19,7 +19,7 @@
 
 ---
 
-2️⃣ ### For form 2: Follow below tasks as per your lab instruction & Check Solution Repo :
+## 2️⃣ For form 2: Follow below tasks as per your lab instruction & Check Solution Repo :
 ---
 
 * **Task 1. Create a lake in Dataplex and add a zone to your .**
@@ -32,7 +32,7 @@
 
 ---
 
-3️⃣ ### For form 3: Follow below tasks as per your lab instruction & Check Solution Repo :
+## 3️⃣ For form 3: Follow below tasks as per your lab instruction & Check Solution Repo :
 ---
 
 * **Task 1. Create a BigQuery dataset.**
@@ -44,7 +44,7 @@
 - ## ✅ For Form id-3 : Check this repo for solution. : [Click Here](https://github.com/Titash-shil/Create-a-Secure-Data-Lake-on-Cloud-Storage-Challenge-Lab-ARC119-NEW-/blob/main/Qwiklab_explorers_form3.md)
 
 ---
-4️⃣ ### For Task 4. Follow below tasks as per your lab instruction & Check Solution Repo :
+## 4️⃣ For Task 4. Follow below tasks as per your lab instruction & Check Solution Repo :
 ---
 
 * **Task 1. Create a lake in Dataplex and add a zone to your lake.**
