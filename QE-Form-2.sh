@@ -96,9 +96,9 @@ echo
 echo "${YELLOW_TEXT}${BOLD_TEXT}OPEN THIS LINK: ${BLUE_TEXT}${BOLD_TEXT}https://console.cloud.google.com/projectselector2/dataplex/groups${RESET_FORMAT}"
 
 echo
-echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}              LAB COMPLETED SUCCESSFULLY!              ${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}_________________________________________________________________________${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}        Congratulations! You completed the lab successfully!             ${RESET_FORMAT}"
+echo "${GREEN_TEXT}${BOLD_TEXT}_________________________________________________________________________${RESET_FORMAT}"
 echo
 
 echo -e "${RED_TEXT}${BOLD_TEXT}Subscribe my Channel (QwikLab Explorers):${RESET_FORMAT} ${BLUE_TEXT}${BOLD_TEXT}https://www.youtube.com/@qwiklabexplorers${RESET_FORMAT}"
