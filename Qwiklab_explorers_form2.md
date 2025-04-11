@@ -7,12 +7,9 @@
 #### This script and guide are provided for educational purposes to help you understand the lab process. Please ensure you understand the steps before using any scripts. Before using the script, I encourage you to open and review it to understand each step.The goal is to help you learn how to complete the labs effectively while following Qwiklabs' terms of service and YouTube's community guidelines.
 ---
 
-## 1️⃣ For form 2: Follow below tasks as per your lab instruction & Check Solution Repo  :
+## 2️⃣ For form 2: Follow below tasks as per your lab instruction & Check Solution Repo  :
 ---
 
- ### For form 2: Follow below tasks as per your lab instruction & Check Solution Repo :
-
----
 
 * **Task 1. Create a BigQuery dataset.**
 * **Task 2. Add a zone to your lake.**
