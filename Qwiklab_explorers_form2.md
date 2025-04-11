@@ -10,10 +10,14 @@
 ## 1️⃣ For form 2: Follow below tasks as per your lab instruction & Check Solution Repo  :
 ---
 
-* **Task 1. Create a Cloud Storage bucket.**
-* **Task 2. Create a lake in Dataplex and add a zone to your lake**
-* **Task 3. Environment Creation for Dataplex Lake.**
-* **Task 4. Create a tag template (Storage bucket).**
+ ### For form 2: Follow below tasks as per your lab instruction & Check Solution Repo :
+
+---
+
+* **Task 1. Create a BigQuery dataset.**
+* **Task 2. Add a zone to your lake.**
+* **Task 3. Attach an existing BigQuery Dataset to the Lake.**
+* **Task 4. Create a tag template (BigQuery Dataset).**
 ---
 
 - ### Copy & Run the Commands in Cloud Shell Terminal :
