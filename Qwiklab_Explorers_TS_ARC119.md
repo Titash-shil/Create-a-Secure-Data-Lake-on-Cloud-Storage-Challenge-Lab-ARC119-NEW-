@@ -15,7 +15,7 @@
 * **Task 4. Create a tag template (Storage bucket).**
 
 ---------------------------------------------------------------------------------
-- ## For Form id-1 : Check this repo
+- ## ✅ For Form id-1 : Check this repo
 
 ---
 
@@ -28,7 +28,7 @@
 * **Task 4. Create a tag template (Storage bucket).**
 
 ---------------------------------------------------------------------------------
-- ## For Form id-2 : Check this repo
+- ## ✅ For Form id-2 : Check this repo
 
 ---
 
@@ -41,7 +41,7 @@
 * **Task 4. Create a tag template (BigQuery Dataset).**
 
 ---------------------------------------------------------------------------------
-- ## For Form id-3 : Check this repo
+- ## ✅ For Form id-3 : Check this repo
 
 ---
 4️⃣ ### For Task 4. Follow below tasks as per your lab instruction & Check Solution Repo :
@@ -53,7 +53,7 @@
 * **Task 4. Create Entities.**
 
 ---------------------------------------------------------------------------------
-- ## For Form id-2 : Check this repo
+- ## ✅ For Form id-2 : Check this repo
 --------------------------------------
 
 
