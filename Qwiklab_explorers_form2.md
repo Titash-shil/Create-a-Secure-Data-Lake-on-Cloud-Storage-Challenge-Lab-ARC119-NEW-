@@ -20,11 +20,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Create-a-Secure-Data-Lake-on-Cloud-Storage-Challenge-Lab-ARC119-NEW-/refs/heads/main/QE-Form-1.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Create-a-Secure-Data-Lake-on-Cloud-Storage-Challenge-Lab-ARC119-NEW-/refs/heads/main/QE-Form-2.sh
 
-sudo chmod +x QE-Form-1.sh
+sudo chmod +x QE-Form-2.sh
 
-./QE-Form-1.sh
+./QE-Form-2.sh
 ```
 
 
