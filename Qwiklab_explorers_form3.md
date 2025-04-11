@@ -10,7 +10,6 @@
 ## 3️⃣ For form 3: Follow below tasks as per your lab instruction & Check Solution Repo  :
 ---
 
-
 * **Task 1. Create a BigQuery dataset.**
 * **Task 2. Add a zone to your lake.**
 * **Task 3. Attach an existing BigQuery Dataset to the Lake.**
